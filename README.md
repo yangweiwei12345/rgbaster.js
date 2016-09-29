@@ -1,6 +1,7 @@
 # <img src="https://rawgithub.com/briangonzalez/rgbaster.js/master/demo/baster.svg" width=25 style="margin-right: 10px"> RGBaster
 
 A dead simple javascript library for extracting the dominant color(s) from an image.
+获取图片的主色调和次色调
 
 ### Usage
 
